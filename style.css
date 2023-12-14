@@ -289,7 +289,7 @@ nav h4 {
     color: white;
     padding: 15px;
     margin: 15px 0px;
-    font-size: 12px;
+    font-size: 15px;
     border-radius: 6px;
  }
 #msg {
@@ -325,7 +325,7 @@ nav h4 {
     height: 8vh;
     background-color: #000000;
     color: white;
-    font-size: 10px;
+    font-size: 15px;
     letter-spacing: 0.5px;
 }
 
